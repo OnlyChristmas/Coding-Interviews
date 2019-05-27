@@ -1,12 +1,12 @@
-# [牛客网剑指offer总结](https://www.nowcoder.com/ta/coding-interviews)
+# [《剑指offer》牛客网刷题总结](https://www.nowcoder.com/ta/coding-interviews)
 
-
+点击题目可以跳转到牛客网上对应的AC提交记录，点击python可以跳转到库中存储的多种求解代码。
 
 | Title | Solution | Time | Space | Category |
 | --- | --- | --- | --- | --- |
 | [二维数组中的查找](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=42453621) | [Python](./Python/二维数组中的查找.py) | O(n) | O(1) | 数组 |
 | [替换空格](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=42460839) | [Python](./Python/替换空格.py) | O(n) | O(1) | 字符串 |
-| [从尾到头打印链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=42462324) | [Python](./Python/从尾到头打印链表.py) | O(n) | O(1) | 链表 |
+| [从尾到头打印链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47907823) | [Python](./Python/从尾到头打印链表.py) | O(n) | O(1) | 链表 |
 | [斐波那契数列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=45227866) | [Python](./Python/斐波那契数列.py) | O(n) | O(1) | 循环》递归 |
 | [跳台阶](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=45230720) | [Python](./Python/跳台阶.py) | O(n) | O(1) | 循环》递归 |
 | [用两个栈实现队列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=45235801) | [Python](./Python/用两个栈实现队列.py) | _ | _ | 栈、队列 |
@@ -14,14 +14,14 @@
 | [旋转数组的最小数字](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=45236648) | [Python](./Python/旋转数组的最小数字.py) | O(logn) | O(1) | 查找 |
 | [二进制中1的个数](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=46075299) | [Python](./Python/二进制中1的个数.py) | O(n) | O(1) | 位运算 |
 | [重建二叉树]() | [Python](./Python/重建二叉树.py) |  |  |  |
-| [链表中倒数第k个结点]() | [Python](./Python/链表中倒数第k个结点.py) |  |  |  |
+| [链表中倒数第k个结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47803984) | [Python](./Python/链表中倒数第k个结点.py) | O(n) | O(1) | 链表，代码完整性 |
 | [矩形覆盖]() | [Python](./Python/矩形覆盖.py) |  |  |  |
-| [反转链表]() | [Python](./Python/反转链表.py) |  |  |  |
-| [调整数组顺序使奇数位于偶数前面]() | [Python](./Python/调整数组顺序使奇数位于偶数前面.py) |  |  |  |
+| [反转链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47806389) | [Python](./Python/反转链表.py) | O(n) | O(1) | 链表、代码完整性 |
+| [调整数组顺序使奇数位于偶数前面](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47802170) | [Python](./Python/调整数组顺序使奇数位于偶数前面.py) | O(nlogn) | O(1) | 数组 |
 | [数值的整数次方](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=46083470) | [Python](./Python/数值的整数次方.py) | O(logn) | O(1) | 代码完整性 |
-| [合并两个排序的链表]() | [Python](./Python/合并两个排序的链表.py) |  |  |  |
-| [二叉树的镜像]() | [Python](./Python/二叉树的镜像.py) |  |  |  |
-| [树的子结构]() | [Python](./Python/树的子结构.py) |  |  |  |
+| [合并两个排序的链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47808433)  \\\ [进阶题目：合并k个有序链表](https://blog.csdn.net/huhehaotechangsha/article/details/90573890) | [Python](./Python/合并两个排序的链表.py) | O(n+m) | O(1) | 代码鲁棒性 |
+| [二叉树的镜像](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47899162) | [Python](./Python/二叉树的镜像.py) | O(logn) | O(1) | 二叉树 |
+| [树的子结构](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47831600) | [Python](./Python/树的子结构.py) | O(m)~O(n*m) | O(1) | 代码鲁棒性 |
 | [从上往下打印二叉树]() | [Python](./Python/从上往下打印二叉树.py) |  |  |  |
 | [栈的压入、弹出序列]() | [Python](./Python/栈的压入、弹出序列.py) |  |  |  |
 | [包含min函数的栈]() | [Python](./Python/包含min函数的栈.py) |  |  |  |
@@ -51,10 +51,10 @@
 | [和为S的连续正数序列]() | [Python](./Python/和为S的连续正数序列.py) |  |  |  |
 | [不用加减乘除做加法]() | [Python](./Python/不用加减乘除做加法.py) |  |  |  |
 | [删除链表中重复的结点]() | [Python](./Python/删除链表中重复的结点.py) |  |  |  |
-| [链表中环的入口结点]() | [Python](./Python/链表中环的入口结点.py) |  |  |  |
+| [链表中环的入口结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47805238) | [Python](./Python/链表中环的入口结点.py) | O(n) | O(1) | 链表 |
 | [数组中的逆序对]() | [Python](./Python/数组中的逆序对.py) |  |  |  |
 | [把字符串转换成整数]() | [Python](./Python/把字符串转换成整数.py) |  |  |  |
-| [对称的二叉树]() | [Python](./Python/对称的二叉树.py) |  |  |  |
+| [对称的二叉树](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47902100) | [Python](./Python/对称的二叉树.py) | O(logn) | O(1) | 二叉树 |
 | [扑克牌顺子]() | [Python](./Python/扑克牌顺子.py) |  |  |  |
 | [孩子们的游戏(圆圈中最后剩下的数)]() | [Python](./Python/孩子们的游戏（圆圈中最后剩下的数）.py) |  |  |  |
 | [二叉树的下一个结点]() | [Python](./Python/二叉树的下一个结点.py) |  |  |  |
