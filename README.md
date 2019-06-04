@@ -22,22 +22,22 @@
 | [合并两个排序的链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47808433)  \\\ [进阶题目：合并k个有序链表](https://blog.csdn.net/huhehaotechangsha/article/details/90573890) | [Python](./Python/合并两个排序的链表.py) | O(n+m) | O(1) | 代码鲁棒性 |
 | [二叉树的镜像](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47899162) | [Python](./Python/二叉树的镜像.py) | O(logn) | O(1) | 二叉树 |
 | [树的子结构](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47831600) | [Python](./Python/树的子结构.py) | O(m)~O(n*m) | O(1) | 代码鲁棒性 |
-| [从上往下打印二叉树]() | [Python](./Python/从上往下打印二叉树.py) |  |  |  |
-| [栈的压入、弹出序列]() | [Python](./Python/栈的压入、弹出序列.py) |  |  |  |
-| [包含min函数的栈]() | [Python](./Python/包含min函数的栈.py) |  |  |  |
-| [顺时针打印矩阵]() | [Python](./Python/顺时针打印矩阵.py) |  |  |  |
+| [从上往下打印二叉树](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48153093) | [Python](./Python/从上往下打印二叉树.py) | O(n) | O(n) | 二叉树 |
+| [栈的压入、弹出序列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48152705) | [Python](./Python/栈的压入、弹出序列.py) | O(n) | O(1)~O(n) | 栈 |
+| [包含min函数的栈](https://www.nowcoder.com/profile/4727991/codeBooks?problemId=3707) | [Python](./Python/包含min函数的栈.py) | O(1) | O(n) | 栈 |
+| [顺时针打印矩阵](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48149659) | [Python](./Python/顺时针打印矩阵.py) | O(n*m) | O(1) | 数组 |
 | [数组中出现次数超过一半的数字]() | [Python](./Python/数组中出现次数超过一半的数字.py) |  |  |  |
-| [二叉搜索树的后序遍历序列]() | [Python](./Python/二叉搜索树的后序遍历序列.py) |  |  |  |
+| [二叉搜索树的后序遍历序列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48194445) | [Python](./Python/二叉搜索树的后序遍历序列.py) | O(nlogn) | O(1) | 二叉树 |
 | [最小的K个数]() | [Python](./Python/最小的K个数.py) |  |  |  |
 | [连续子数组的最大和]() | [Python](./Python/连续子数组的最大和.py) |  |  |  |
-| [二叉树中和为某一值的路径]() | [Python](./Python/二叉树中和为某一值的路径.py) |  |  |  |
+| [二叉树中和为某一值的路径](https://www.nowcoder.com/profile/4727991/codeBooks?problemId=3715) | [Python](./Python/二叉树中和为某一值的路径.py) | O(logn) | O(1) | 二叉树 |
 | [二叉树的深度]() | [Python](./Python/二叉树的深度.py) |  |  |  |
 | [第一个只出现一次的字符位置]() | [Python](./Python/第一个只出现一次的字符位置.py) |  |  |  |
 | [求1+2+3+...+n]() | [Python](./Python/求1+2+3+...+n.py) |  |  |  |
 | [字符串的排列]() | [Python](./Python/字符串的排列.py) |  |  |  |
-| [两个链表的第一个公共结点]() | [Python](./Python/两个链表的第一个公共结点.py) |  |  |  |
+| [两个链表的第一个公共结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48301223) | [Python](./Python/两个链表的第一个公共结点.py) | O(n+m) | O(1) | 链表 |
 | [数字在排序数组中出现的次数]() | [Python](./Python/数字在排序数组中出现的次数.py) |  |  |  |
-| [复杂链表的复制]() | [Python](./Python/复杂链表的复制.py) |  |  |  |
+| [复杂链表的复制](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48274777) | [Python](./Python/复杂链表的复制.py) | O(n) | O(1) | 链表 |
 | [数组中只出现一次的数字]() | [Python](./Python/数组中只出现一次的数字.py) |  |  |  |
 | [丑数]() | [Python](./Python/丑数.py) |  |  |  |
 | [数组中重复的数字]() | [Python](./Python/数组中重复的数字.py) |  |  |  |
@@ -47,10 +47,10 @@
 | [左旋转字符串]() | [Python](./Python/左旋转字符串.py) |  |  |  |
 | [平衡二叉树]() | [Python](./Python/平衡二叉树.py) |  |  |  |
 | [翻转单词顺序列]() | [Python](./Python/翻转单词顺序列.py) |  |  |  |
-| [二叉搜索树与双向链表]() | [Python](./Python/二叉搜索树与双向链表.py) |  |  |  |
+| [二叉搜索树与双向链表](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48297086) | [Python](./Python/二叉搜索树与双向链表.py) | O(n) | O(1) | 二叉树、双向链表 |
 | [和为S的连续正数序列]() | [Python](./Python/和为S的连续正数序列.py) |  |  |  |
 | [不用加减乘除做加法]() | [Python](./Python/不用加减乘除做加法.py) |  |  |  |
-| [删除链表中重复的结点]() | [Python](./Python/删除链表中重复的结点.py) |  |  |  |
+| [删除链表中重复的结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48280756) | [Python](./Python/删除链表中重复的结点.py) | O(n) | O(1) | 链表 |
 | [链表中环的入口结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=47805238) | [Python](./Python/链表中环的入口结点.py) | O(n) | O(1) | 链表 |
 | [数组中的逆序对]() | [Python](./Python/数组中的逆序对.py) |  |  |  |
 | [把字符串转换成整数]() | [Python](./Python/把字符串转换成整数.py) |  |  |  |
@@ -59,9 +59,9 @@
 | [孩子们的游戏(圆圈中最后剩下的数)]() | [Python](./Python/孩子们的游戏（圆圈中最后剩下的数）.py) |  |  |  |
 | [二叉树的下一个结点]() | [Python](./Python/二叉树的下一个结点.py) |  |  |  |
 | [构建乘积数组]() | [Python](./Python/构建乘积数组.py) |  |  |  |
-| [把二叉树打印成多行]() | [Python](./Python/把二叉树打印成多行.py) |  |  |  |
+| [把二叉树打印成多行](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48153495) | [Python](./Python/把二叉树打印成多行.py) | O(n) | O(n) | 二叉树 |
 | [二叉搜索树的第k个结点]() | [Python](./Python/二叉搜索树的第k个结点.py) |  |  |  |
-| [按之字形顺序打印二叉树]() | [Python](./Python/按之字形顺序打印二叉树.py) |  |  |  |
+| [按之字形顺序打印二叉树](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48155836) | [Python](./Python/按之字形顺序打印二叉树.py) | O(n) | O(n) | 二叉树 |
 | [字符流中第一个不重复的字符]() | [Python](./Python/字符流中第一个不重复的字符.py) |  |  |  |
 | [滑动窗口的最大值]() | [Python](./Python/滑动窗口的最大值.py) |  |  |  |
 | [表示数值的字符串]() | [Python](./Python/表示数值的字符串.py) |  |  |  |
