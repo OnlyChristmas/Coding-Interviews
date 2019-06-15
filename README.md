@@ -26,24 +26,24 @@
 | [栈的压入、弹出序列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48152705) | [Python](./Python/栈的压入、弹出序列.py) | O(n) | O(1)~O(n) | 栈 |
 | [包含min函数的栈](https://www.nowcoder.com/profile/4727991/codeBooks?problemId=3707) | [Python](./Python/包含min函数的栈.py) | O(1) | O(n) | 栈 |
 | [顺时针打印矩阵](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48149659) | [Python](./Python/顺时针打印矩阵.py) | O(n*m) | O(1) | 数组 |
-| [数组中出现次数超过一半的数字]() | [Python](./Python/数组中出现次数超过一半的数字.py) |  |  |  |
+| [数组中出现次数超过一半的数字](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48765916) | [Python](./Python/数组中出现次数超过一半的数字.py) | O(2n) | O(1) | 数组 |
 | [二叉搜索树的后序遍历序列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48194445) | [Python](./Python/二叉搜索树的后序遍历序列.py) | O(nlogn) | O(1) | 二叉树 |
-| [最小的K个数]() | [Python](./Python/最小的K个数.py) |  |  |  |
-| [连续子数组的最大和]() | [Python](./Python/连续子数组的最大和.py) |  |  |  |
+| [最小的K个数](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48784255) | [Python](./Python/最小的K个数.py) | O(n) | O(1) | 数组 |
+| [连续子数组的最大和](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48795341) | [Python](./Python/连续子数组的最大和.py) | O(n) | O(1) | 动规 |
 | [二叉树中和为某一值的路径](https://www.nowcoder.com/profile/4727991/codeBooks?problemId=3715) | [Python](./Python/二叉树中和为某一值的路径.py) | O(logn) | O(1) | 二叉树 |
 | [二叉树的深度]() | [Python](./Python/二叉树的深度.py) |  |  |  |
-| [第一个只出现一次的字符位置]() | [Python](./Python/第一个只出现一次的字符位置.py) |  |  |  |
+| [第一个只出现一次的字符位置](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48824416) | [Python](./Python/第一个只出现一次的字符位置.py) | O(n) | O(1) | 字符串 |
 | [求1+2+3+...+n]() | [Python](./Python/求1+2+3+...+n.py) |  |  |  |
-| [字符串的排列]() | [Python](./Python/字符串的排列.py) |  |  |  |
+| [字符串的排列](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48511020) | [Python](./Python/字符串的排列.py) | O(n^2) | O(1) | 递归 |
 | [两个链表的第一个公共结点](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48301223) | [Python](./Python/两个链表的第一个公共结点.py) | O(n+m) | O(1) | 链表 |
 | [数字在排序数组中出现的次数]() | [Python](./Python/数字在排序数组中出现的次数.py) |  |  |  |
 | [复杂链表的复制](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48274777) | [Python](./Python/复杂链表的复制.py) | O(n) | O(1) | 链表 |
 | [数组中只出现一次的数字]() | [Python](./Python/数组中只出现一次的数字.py) |  |  |  |
-| [丑数]() | [Python](./Python/丑数.py) |  |  |  |
+| [丑数](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48823768) | [Python](./Python/丑数.py) | O(n) | O(n) | 数学 |
 | [数组中重复的数字]() | [Python](./Python/数组中重复的数字.py) |  |  |  |
-| [把数组排成最小的数]() | [Python](./Python/把数组排成最小的数.py) |  |  |  |
+| [把数组排成最小的数](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48805812) | [Python](./Python/把数组排成最小的数.py) | O(nlogn) | O(1) | 数组 |
 | [和为S的两个数字]() | [Python](./Python/和为S的两个数字.py) |  |  |  |
-| [整数中1出现的次数（从1到n整数中1出现的次数）]() | [Python](./Python/整数中1出现的次数（从1到n整数中1出现的次数）.py) |  |  |  |
+| [整数中1出现的次数（从1到n整数中1出现的次数）](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48800319) | [Python](./Python/整数中1出现的次数（从1到n整数中1出现的次数）.py) | O(logn) | O(1) | 数学规律 |
 | [左旋转字符串]() | [Python](./Python/左旋转字符串.py) |  |  |  |
 | [平衡二叉树]() | [Python](./Python/平衡二叉树.py) |  |  |  |
 | [翻转单词顺序列]() | [Python](./Python/翻转单词顺序列.py) |  |  |  |
@@ -68,5 +68,5 @@
 | [机器人的运动范围]() | [Python](./Python/机器人的运动范围.py) | O(n^2) | O(n^2) | 回溯法 |
 | [正则表达式匹配]() | [Python](./Python/正则表达式匹配.py) |  |  |  |
 | [矩阵中的路径]() | [Python](./Python/矩阵中的路径.py) | O(n^2) | O(1) | 回溯法 |
-| [序列化二叉树]() | [Python](./Python/序列化二叉树.py) |  |  |  |
-| [数据流中的中位数]() | [Python](./Python/数据流中的中位数.py) |  |  |  |
+| [序列化二叉树](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48504812) | [Python](./Python/序列化二叉树.py) | O(logn) | O(1) | 二叉树 |
+| [数据流中的中位数](https://www.nowcoder.com/profile/4727991/codeBookDetail?submissionId=48792471) | [Python](./Python/数据流中的中位数.py) | 插入O(logn) \ 中位数O(1) | O(1) | 树、堆 |
